@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28415
     wikipedia: http://pt.wikipedia.org/wiki/João_Augusto_Marques_Gomes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25113#Centenario-do-Revolu--o-de-1820Integra--o-de-Aveiro-nesse-glorioso-movimento
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-04-21'
 gutenberg_type: Text
